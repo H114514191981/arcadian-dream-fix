@@ -1,3 +1,5 @@
+警告这个是一个修复分支，目的修复这个模组的一些问题，我本人后续应该不会开发这个模组
+
 # Arcadian Dream <img alt="Icon" width="48" src="/src/main/resources/assets/arcadiandream/icon.png"/>
 
 A Touhou mod for modern Minecraft. Arcadian Dream adds new blocks, items, mobs, and other content based on the [Touhou Project](https://en.touhouwiki.net/wiki/Touhou_Wiki) series. It aims to provide a full Touhou experience in Minecraft.
