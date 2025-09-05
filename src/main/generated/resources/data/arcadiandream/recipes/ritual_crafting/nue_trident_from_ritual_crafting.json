@@ -1,0 +1,56 @@
+{
+  "type": "arcadiandream:ritual_crafting",
+  "ingredients": [
+    {
+      "item": "minecraft:trident"
+    },
+    {
+      "tag": "c:netherite_ingots"
+    },
+    {
+      "tag": "c:diamonds"
+    },
+    {
+      "item": "minecraft:spider_eye"
+    },
+    {
+      "item": "minecraft:fire_charge"
+    },
+    {
+      "item": "minecraft:spider_eye"
+    },
+    {
+      "tag": "c:diamonds"
+    },
+    {
+      "tag": "c:netherite_ingots"
+    },
+    {
+      "item": "minecraft:prismarine_crystals"
+    },
+    {
+      "item": "minecraft:prismarine_crystals"
+    },
+    {
+      "item": "arcadiandream:makaite_ingot"
+    },
+    {
+      "item": "arcadiandream:makaite_ingot"
+    },
+    {
+      "item": "arcadiandream:makaite_ingot"
+    },
+    {
+      "item": "arcadiandream:makaite_ingot"
+    },
+    {
+      "item": "arcadiandream:makaite_ingot"
+    },
+    {
+      "item": "arcadiandream:makaite_ingot"
+    }
+  ],
+  "result": {
+    "item": "arcadiandream:nue_trident"
+  }
+}

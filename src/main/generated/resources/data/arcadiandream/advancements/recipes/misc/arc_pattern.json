@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_arc_pattern_template": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "arcadiandream:arc_pattern_template"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "arcadiandream:arc_pattern"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_arc_pattern_template",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "arcadiandream:arc_pattern"
+    ]
+  },
+  "sends_telemetry_event": false
+}

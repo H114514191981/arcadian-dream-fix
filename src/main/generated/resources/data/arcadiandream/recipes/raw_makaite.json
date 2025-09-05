@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "arcadiandream:raw_makaite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "arcadiandream:raw_makaite"
+  }
+}

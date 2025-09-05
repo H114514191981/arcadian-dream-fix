@@ -1,0 +1,19 @@
+{
+  "sources": [
+    {
+      "type": "directory",
+      "source": "models/armor",
+      "prefix": "models/armor/"
+    },
+    {
+      "type": "directory",
+      "source": "models/item",
+      "prefix": "models/item/"
+    },
+    {
+      "type": "directory",
+      "source": "models/trinket",
+      "prefix": "models/trinket/"
+    }
+  ]
+}

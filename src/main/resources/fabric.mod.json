@@ -1,0 +1,66 @@
+{
+  "schemaVersion": 1,
+  "id": "arcadiandream",
+  "version": "${version}",
+  "name": "Arcadian Dream",
+  "description": "A Touhou mod for modern versions.",
+  "authors": [
+    "Maxmani"
+  ],
+  "contributors": [
+    "Virtlux",
+    "Foxigami",
+    "Taiyou"
+  ],
+  "contact": {
+    "issues": "https://github.com/Maxmani/arcadian-dream/issues",
+    "sources": "https://github.com/Maxmani/arcadian-dream",
+    "homepage": "https://modrinth.com/mod/arcadian-dream"
+  },
+  "license": [
+    "EUPL-1.2",
+    "CC-BY-SA-4.0"
+  ],
+  "icon": "assets/arcadiandream/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.reimaden.arcadiandream.ArcadianDream"
+    ],
+    "client": [
+      "net.reimaden.arcadiandream.ArcadianDreamClient"
+    ],
+    "fabric-datagen": [
+      "net.reimaden.arcadiandream.ArcadianDreamDataGen"
+    ],
+    "rei_client": [
+      "net.reimaden.arcadiandream.compat.rei.REIPlugin"
+    ],
+    "emi": [
+      "net.reimaden.arcadiandream.compat.emi.EMIPlugin"
+    ],
+    "jei_mod_plugin": [
+      "net.reimaden.arcadiandream.compat.jei.JEIPlugin"
+    ]
+  },
+  "mixins": [
+    "arcadiandream.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.14",
+    "fabric-api": "*",
+    "minecraft": "1.20.*",
+    "java": ">=17",
+    "trinkets" : ">=3.7.1",
+    "owo": ">=0.11.1",
+    "pehkui": ">=3.7.7",
+    "geckolib": ">=4.2"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.discord": "https://discord.gg/WESu6XEcF7"
+      }
+    }
+  }
+}

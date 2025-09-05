@@ -1,0 +1,247 @@
+{
+  "music_disc.fairy_playground": {
+    "sounds": [
+      {
+        "name": "arcadiandream:records/fairy_playground",
+        "stream": true
+      }
+    ]
+  },
+  "music_disc.the_shrine_long_forgotten": {
+    "sounds": [
+      {
+        "name": "arcadiandream:records/the_shrine_long_forgotten",
+        "stream": true
+      }
+    ]
+  },
+  "entity.danmaku.fire": {
+    "sounds": [
+      "arcadiandream:danmaku/fire"
+    ],
+    "subtitle": "arcadiandream.subtitles.entity.danmaku.fire"
+  },
+  "entity.danmaku.hit": {
+    "sounds": [
+      {
+        "name": "arcadiandream:danmaku/hit",
+        "stream": true
+      }
+    ],
+    "subtitle": "arcadiandream.subtitles.entity.danmaku.hit"
+  },
+  "item.bomb_item.use": {
+    "sounds": [
+      "arcadiandream:item/bomb"
+    ],
+    "subtitle": "arcadiandream.subtitles.item.bomb_item.use"
+  },
+  "item.armor.equip_ordinary": {
+    "sounds": [
+      "item/armor/equip_leather1",
+      "item/armor/equip_leather2",
+      "item/armor/equip_leather3",
+      "item/armor/equip_leather4",
+      "item/armor/equip_leather5",
+      "item/armor/equip_leather6"
+    ],
+    "subtitle": "arcadiandream.subtitles.item.armor.equip_ordinary"
+  },
+  "item.armor.equip_makaite": {
+    "sounds": [
+      "item/armor/equip_iron1",
+      "item/armor/equip_iron2",
+      "item/armor/equip_iron3",
+      "item/armor/equip_iron4",
+      "item/armor/equip_iron5",
+      "item/armor/equip_iron6"
+    ],
+    "subtitle": "arcadiandream.subtitles.item.armor.equip_makaite"
+  },
+  "item.extend_item.use": {
+    "sounds": [
+      "arcadiandream:item/extend"
+    ],
+    "subtitle": "arcadiandream.subtitles.item.extend_item.use"
+  },
+  "block.onbashira.add_item": {
+    "sounds": [
+      "entity/itemframe/add_item1",
+      "entity/itemframe/add_item2",
+      "entity/itemframe/add_item3",
+      "entity/itemframe/add_item4"
+    ],
+    "subtitle": "arcadiandream.subtitles.block.onbashira.add_item"
+  },
+  "block.ritual_shrine.use": {
+    "sounds": [
+      "arcadiandream:random/ritual"
+    ],
+    "subtitle": "arcadiandream.subtitles.block.ritual_shrine.use"
+  },
+  "block.onbashira.create": {
+    "sounds": [
+      "entity/leashknot/place1",
+      "entity/leashknot/place2",
+      "entity/leashknot/place3"
+    ],
+    "subtitle": "arcadiandream.subtitles.block.onbashira.create"
+  },
+  "item.wall_passing_chisel.use": {
+    "sounds": [
+      "arcadiandream:random/warp"
+    ],
+    "subtitle": "arcadiandream.subtitles.item.wall_passing_chisel.use"
+  },
+  "item.ibuki_gourd.fill": {
+    "sounds": [
+      "item/bottle/fill1",
+      "item/bottle/fill2",
+      "item/bottle/fill3",
+      "item/bottle/fill4"
+    ],
+    "subtitle": "arcadiandream.subtitles.item.ibuki_gourd.fill"
+  },
+  "item.healing_charm.use": {
+    "sounds": [
+      "arcadiandream:item/heal"
+    ],
+    "subtitle": "arcadiandream.subtitles.item.healing_charm.use"
+  },
+  "item.death_scythe.teleport": {
+    "sounds": [
+      "mob/endermen/portal",
+      "mob/endermen/portal2"
+    ],
+    "subtitle": "arcadiandream.subtitles.item.death_scythe.teleport"
+  },
+  "item.death_scythe.teleport_generic": {
+    "sounds": [
+      "mob/endermen/portal",
+      "mob/endermen/portal2"
+    ],
+    "subtitle": "arcadiandream.subtitles.item.death_scythe.teleport_generic"
+  },
+  "item.hourai_elixir.use": {
+    "sounds": [
+      "mob/guardian/curse"
+    ]
+  },
+  "entity.generic.resurrect": {
+    "sounds": [
+      {
+        "name": "mob/wither/death",
+        "pitch": 2,
+        "volume": 0.7
+      }
+    ],
+    "subtitle": "arcadiandream.subtitles.entity.generic.resurrect"
+  },
+  "item.miracle_mallet.use": {
+    "sounds": [
+      "arcadiandream:random/ring"
+    ],
+    "subtitle": "arcadiandream.subtitles.item.miracle_mallet.use"
+  },
+  "entity.fairy.ambient": {
+    "sounds": [
+      "mob/bat/idle1",
+      "mob/bat/idle2",
+      "mob/bat/idle3",
+      "mob/bat/idle4"
+    ],
+    "subtitle": "arcadiandream.subtitles.entity.fairy.ambient"
+  },
+  "entity.fairy.death": {
+    "sounds": [
+      "mob/bat/death"
+    ],
+    "subtitle": "arcadiandream.subtitles.entity.fairy.death"
+  },
+  "entity.fairy.hurt": {
+    "sounds": [
+      "mob/bat/hurt1",
+      "mob/bat/hurt2",
+      "mob/bat/hurt3",
+      "mob/bat/hurt4"
+    ],
+    "subtitle": "arcadiandream.subtitles.entity.fairy.hurt"
+  },
+  "entity.villager.work_antiquarian": {
+    "sounds": [
+      "arcadiandream:random/ritual"
+    ],
+    "subtitle": "arcadiandream.subtitles.entity.villager.work_antiquarian"
+  },
+  "item.ghastly_lantern.use": {
+    "sounds": [
+      "arcadiandream:item/lantern"
+    ],
+    "subtitle": "arcadiandream.subtitles.item.ghastly_lantern.use"
+  },
+  "item.folding_chair.hit": {
+    "sounds": [
+      "arcadiandream:random/metal"
+    ],
+    "subtitle": "arcadiandream.subtitles.item.folding_chair.hit"
+  },
+  "item.hihiirokane.autosmelt.on": {
+    "sounds": [
+      "mob/ghast/fireball4"
+    ],
+    "subtitle": "arcadiandream.subtitles.item.hihiirokane.autosmelt.on"
+  },
+  "item.hihiirokane.autosmelt.off": {
+    "sounds": [
+      "random/fizz"
+    ],
+    "subtitle": "arcadiandream.subtitles.item.hihiirokane.autosmelt.off"
+  },
+  "item.fairy_charm.use": {
+    "sounds": [
+      "random/orb"
+    ],
+    "subtitle": "arcadiandream.subtitles.item.fairy_charm.use"
+  },
+  "item.armor.equip_hihiirokane": {
+    "sounds": [
+      {
+        "name": "item/armor/equip_netherite1",
+        "volume": 0.8
+      },
+      {
+        "name": "item/armor/equip_netherite1",
+        "pitch": 0.9,
+        "volume": 0.8
+      },
+      {
+        "name": "item/armor/equip_netherite2",
+        "volume": 0.8
+      },
+      {
+        "name": "item/armor/equip_netherite2",
+        "pitch": 0.9,
+        "volume": 0.8
+      },
+      {
+        "name": "item/armor/equip_netherite3",
+        "volume": 0.8
+      },
+      {
+        "name": "item/armor/equip_netherite3",
+        "pitch": 0.9,
+        "volume": 0.8
+      },
+      {
+        "name": "item/armor/equip_netherite4",
+        "volume": 0.8
+      },
+      {
+        "name": "item/armor/equip_netherite4",
+        "pitch": 0.9,
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "arcadiandream.subtitles.item.armor.equip_hihiirokane"
+  }
+}

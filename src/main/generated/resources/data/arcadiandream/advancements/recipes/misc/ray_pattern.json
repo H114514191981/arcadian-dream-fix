@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_ray_pattern_template": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "arcadiandream:ray_pattern_template"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "arcadiandream:ray_pattern"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_ray_pattern_template",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "arcadiandream:ray_pattern"
+    ]
+  },
+  "sends_telemetry_event": false
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.2,
+  "group": "dragon_gem",
+  "ingredient": {
+    "item": "arcadiandream:dragon_gem_ore"
+  },
+  "result": "arcadiandream:dragon_gem"
+}

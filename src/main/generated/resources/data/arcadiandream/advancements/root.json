@@ -1,0 +1,36 @@
+{
+  "criteria": {
+    "get_item": {
+      "conditions": {
+        "items": [
+          {
+            "tag": "arcadiandream:items"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "background": "arcadiandream:textures/block/danmaku_crafting_table_bottom.png",
+    "description": {
+      "translate": "advancements.arcadiandream.root.description"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "arcadiandream:power_item"
+    },
+    "show_toast": false,
+    "title": {
+      "translate": "advancements.arcadiandream.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "get_item"
+    ]
+  ],
+  "sends_telemetry_event": true
+}
